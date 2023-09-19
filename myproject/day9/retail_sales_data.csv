@@ -1,0 +1,1001 @@
+Date,Customer Name,Product Name,Sales,Profit,Region
+2022-02-13,Diana Wheeler,there,432.04,59.44,Arkansas
+2022-04-12,Kevin White,call,451.78,67.37,Louisiana
+2022-08-17,Kelly Carpenter,we,34.92,49.55,New Mexico
+2022-11-02,Jordan Williams,speak,118.47,36.02,Maryland
+2022-10-10,James Lane,information,395.8,51.38,Indiana
+2022-09-22,Anita Hill,her,483.77,66.63,Oklahoma
+2022-12-13,Elizabeth Schaefer PhD,case,48.61,91.41,Arizona
+2022-03-05,Mr. Andrew Robinson,husband,277.41,29.59,Pennsylvania
+2022-03-12,Thomas Berry,society,227.27,78.82,New Mexico
+2022-05-19,Teresa Wilson,standard,163.92,76.66,Indiana
+2022-03-22,Michael Rios,take,31.71,13.89,Wyoming
+2022-03-03,Eric Davis,ground,435.18,45.07,North Dakota
+2022-03-24,William Petty,hot,27.58,7.86,Wyoming
+2022-08-26,Jacqueline Martinez,education,476.87,75.96,North Carolina
+2022-07-22,Dale Sanchez,sell,466.3,2.03,Ohio
+2022-03-07,James Chambers,spend,109.24,77.69,Louisiana
+2022-11-27,Jennifer Alvarado,time,91.78,15.74,New Mexico
+2022-07-23,Mikayla Rivas,something,19.62,26.55,Connecticut
+2022-06-12,Anna Hays,become,44.66,92.26,California
+2022-07-23,Valerie Howard,serve,114.56,98.22,Indiana
+2022-04-30,Juan Browning,respond,229.78,84.48,Kentucky
+2022-01-19,Colton Peters,most,384.42,24.39,California
+2022-09-12,Linda Davis,accept,86.82,81.19,Michigan
+2022-08-10,Laura Phelps,statement,229.07,83.34,Nevada
+2022-08-14,Jennifer Collins,size,348.49,11.83,Virginia
+2022-02-04,Mallory Miller,affect,121.19,88.43,New Mexico
+2022-12-23,John Meyer,act,23.85,6.34,Minnesota
+2022-12-17,Lisa Nelson,that,258.84,49.18,Arkansas
+2022-06-26,Shawn Evans,much,410.99,81.36,North Carolina
+2022-05-01,Jason Castro,production,311.03,75.42,Vermont
+2022-04-27,Dustin Gray,parent,492.51,66.92,Virginia
+2022-09-15,Robin Coleman,challenge,185.61,13.23,Nevada
+2022-05-06,Dr. Robert Brewer,wind,148.45,45.62,Alabama
+2022-01-22,Lisa Walker,down,422.88,36.97,North Dakota
+2022-03-15,Lisa Jackson,drop,131.91,85.39,Hawaii
+2022-05-20,Megan Carr,blue,495.0,3.72,Maine
+2022-03-31,Ryan Valentine,third,103.79,82.45,New Hampshire
+2022-03-19,Chris Boyd,apply,394.88,19.93,New Jersey
+2022-08-26,Kevin Lawrence,much,61.6,15.27,Wisconsin
+2022-09-23,Mitchell Robinson,paper,165.2,73.3,Oklahoma
+2022-05-29,Robert Harris,other,118.95,9.45,Utah
+2022-10-20,Carl Williams,about,454.65,1.02,Utah
+2022-10-27,Joel Morgan,knowledge,240.25,8.4,Minnesota
+2022-01-26,Taylor Brown,young,480.48,43.79,Washington
+2022-09-20,Jennifer Thomas,develop,220.1,44.5,Utah
+2022-11-12,Brian Lewis,mother,266.64,28.27,Utah
+2022-11-19,Dylan Everett,fish,129.25,47.47,Idaho
+2022-08-03,Michelle Potts,truth,259.95,89.32,Ohio
+2022-07-31,Tristan Browning,they,352.28,40.9,Rhode Island
+2022-08-08,Erin Davis,meet,245.26,51.34,Alaska
+2022-05-29,Erik Cohen,while,359.49,23.19,North Carolina
+2022-10-25,Sarah Garcia,get,445.0,96.88,Oregon
+2022-12-28,Bryan Jones,change,76.31,86.59,Iowa
+2022-12-25,Chad Pennington,fish,394.2,69.67,Nebraska
+2022-12-16,Patricia Browning,hear,332.74,78.18,Colorado
+2022-07-24,Daniel Obrien,religious,355.23,50.44,Alabama
+2022-11-17,Tracey Patterson,red,381.43,76.27,Kansas
+2022-08-10,Christopher Johnson,carry,393.48,44.27,North Dakota
+2022-11-18,John Ramirez,military,349.13,56.1,Washington
+2022-07-20,Steven Webb,gas,199.95,76.97,Nebraska
+2022-11-28,Angel Gardner,themselves,179.53,17.0,Oregon
+2022-02-06,Donald Frank,perhaps,455.96,3.84,Florida
+2022-12-03,Amanda Ramos,apply,222.32,15.81,Arizona
+2022-11-20,William Keller,never,482.29,7.09,Missouri
+2022-07-04,Karen Jones,talk,219.72,23.63,Kentucky
+2022-08-19,Abigail Hoffman,night,146.21,21.88,Massachusetts
+2022-08-16,Jessica Evans,grow,72.22,83.84,Georgia
+2022-09-25,Cynthia Smith,view,156.96,18.54,Missouri
+2022-06-23,Andrea Phillips,make,235.4,2.15,Utah
+2022-02-06,Karen Joyce,son,58.34,97.74,California
+2022-06-24,Frank Adams,truth,469.71,33.32,Idaho
+2022-06-21,Joel Martinez,at,486.67,25.75,Tennessee
+2022-03-05,Eric Olsen,sing,338.32,35.73,South Dakota
+2022-08-05,Desiree Hayes DDS,up,101.43,69.37,Indiana
+2022-05-22,Robert Kelly,college,490.26,71.69,New York
+2022-04-16,Amanda Taylor,responsibility,196.29,35.97,North Carolina
+2022-01-10,Margaret Francis,study,22.29,97.29,Oregon
+2022-10-26,Beth Hernandez,letter,35.83,62.81,Louisiana
+2022-10-29,John Harvey,hit,165.63,27.54,Missouri
+2022-06-04,Hannah Holt,wind,419.65,61.66,Arkansas
+2022-06-21,Leah Jones,understand,259.58,16.34,Mississippi
+2022-05-14,Kimberly Mcgee,on,262.13,14.62,Idaho
+2022-02-01,Dylan Simon,teacher,69.02,70.54,Georgia
+2022-01-16,Susan Huang,future,304.37,91.48,Hawaii
+2022-11-12,Shelley Garcia,method,467.35,33.2,Louisiana
+2022-06-17,David Morgan,shoulder,373.87,16.81,Iowa
+2022-07-06,Charles Edwards,participant,81.05,35.99,Arkansas
+2022-02-11,Kathleen Wolf,realize,358.92,8.89,Iowa
+2022-08-12,Sandra Schwartz,take,64.03,93.61,South Carolina
+2022-07-27,Karen Williams,history,235.62,51.83,Connecticut
+2022-01-04,Christy Nelson,letter,80.61,43.08,Minnesota
+2022-08-09,Tamara Le,home,340.72,57.04,Montana
+2022-09-25,Julie Daniels,price,161.98,36.78,Nebraska
+2022-06-10,Katherine Soto,series,190.17,91.15,Florida
+2022-05-05,Michael Burnett,easy,441.06,94.56,Hawaii
+2022-08-06,Amanda Patterson,if,75.64,8.8,Virginia
+2022-12-12,Michael Craig,seat,174.94,34.4,Alabama
+2022-01-15,Michael Floyd,must,180.98,60.63,Texas
+2022-10-06,Robert Ryan,Republican,288.08,2.6,Louisiana
+2022-07-02,David Garcia,yes,455.57,58.41,Arkansas
+2022-05-21,John Curtis,above,26.4,3.96,New Hampshire
+2022-06-24,Kelly Gonzalez,democratic,426.04,60.99,Mississippi
+2022-10-06,Mitchell Bell,reason,317.07,58.78,New York
+2022-12-31,Sabrina Weaver,little,374.21,78.9,Pennsylvania
+2022-06-24,Kathryn Barron,everything,424.13,42.72,North Dakota
+2022-06-04,Christopher Porter,energy,243.92,50.85,Hawaii
+2022-10-09,Randy Avery,floor,116.44,39.39,Nebraska
+2022-07-13,Jennifer Sanford,about,305.98,48.58,Nevada
+2022-05-14,George Malone,sister,247.82,99.1,South Carolina
+2022-11-27,Timothy Turner,whom,56.18,24.66,Arizona
+2022-10-28,Nicholas Short,actually,464.63,48.84,Virginia
+2022-11-05,George Koch,major,73.5,94.05,Montana
+2022-12-14,Kaitlin Turner,result,148.22,87.87,Kentucky
+2022-03-05,Kevin Floyd,value,305.48,71.5,North Carolina
+2022-10-07,Carl Moon,professional,181.2,1.2,Arkansas
+2022-07-22,Samuel Stewart,learn,294.05,63.89,Missouri
+2022-01-08,Julie Walters,race,277.05,45.45,California
+2022-03-13,Corey Gray,adult,497.06,25.94,Arizona
+2022-07-28,Cheyenne Fernandez,buy,418.42,58.3,Wisconsin
+2022-12-25,Rachel Romero,country,397.27,81.52,Tennessee
+2022-12-10,Kevin Hudson,because,12.31,48.44,Oregon
+2022-08-01,Sheila Dodson,visit,209.79,87.58,Wisconsin
+2022-03-05,Timothy Keith,tough,278.26,28.32,Texas
+2022-05-25,Ronald Williamson,goal,480.9,80.37,Rhode Island
+2022-05-30,Heather Bell,support,58.13,17.66,South Dakota
+2022-04-15,Brandon Jacobson,series,420.25,65.71,Tennessee
+2022-10-15,Natalie Brooks MD,toward,191.2,68.73,Utah
+2022-01-03,Matthew Barker,land,388.04,9.99,South Carolina
+2022-09-24,John Dalton,want,172.96,76.22,Arizona
+2022-11-08,Leah Alexander,north,17.78,24.25,Kentucky
+2022-04-23,Kristi Collier,officer,58.66,38.33,Arizona
+2022-11-27,Wayne Arroyo,next,238.33,8.93,New Mexico
+2022-11-11,Mr. Douglas Ho,method,470.55,51.03,North Carolina
+2022-09-16,Michelle Owens,task,442.29,99.92,Maine
+2022-04-02,Kathleen Gordon,agreement,211.4,6.91,Maryland
+2022-05-17,Mark Palmer,star,304.73,1.71,Idaho
+2022-09-28,Andrea Wallace,tough,489.99,50.32,New Hampshire
+2022-01-08,Karen Guerrero,deal,276.14,91.73,Missouri
+2022-10-11,Jillian Mcguire,ready,424.05,65.97,Iowa
+2022-05-27,Anthony Knight,agreement,206.6,84.6,Pennsylvania
+2022-12-04,Jeff Brooks,teacher,60.65,32.4,Tennessee
+2022-01-29,Stephanie Dominguez,onto,129.41,74.45,Oklahoma
+2022-10-17,Lacey Melendez,member,179.95,74.51,Wyoming
+2022-06-23,Chelsey Cooper,yard,95.42,10.1,Michigan
+2022-05-07,Benjamin Campbell,recognize,362.8,49.54,Kansas
+2022-05-13,Travis Hall,specific,153.79,27.67,Hawaii
+2022-06-23,Scott Butler,candidate,204.42,66.72,Alaska
+2022-04-13,Michael Singh,century,398.51,77.03,Nebraska
+2022-05-02,Sarah Parker,away,226.97,31.58,Mississippi
+2022-12-25,Wendy Elliott,trial,346.84,89.36,New Jersey
+2022-04-02,Joseph Proctor,director,224.42,42.06,Maryland
+2022-01-26,Yolanda Young,the,247.26,48.33,Wisconsin
+2022-08-25,William Campbell,make,427.33,22.93,Kansas
+2022-10-22,Terry Petersen,wish,270.89,22.38,Georgia
+2022-04-05,Daniel Farmer,style,75.62,65.57,Iowa
+2022-05-14,Lori Singh,job,118.09,57.44,Nebraska
+2022-01-01,Jessica Suarez,reveal,296.01,94.4,New Hampshire
+2022-02-11,Jamie Gonzalez,safe,340.05,94.38,Louisiana
+2022-08-28,Karen Henry,cost,28.77,96.72,New Mexico
+2022-09-01,Megan Morris,statement,476.84,93.25,Arizona
+2022-12-29,Frank Taylor,increase,85.07,13.77,Idaho
+2022-10-25,John Harris,off,174.98,77.29,New York
+2022-03-28,Todd Hernandez,able,213.97,69.46,Rhode Island
+2022-09-06,Lisa Lee,have,270.92,82.88,Georgia
+2022-06-15,Sarah Brown,form,304.62,28.7,Maryland
+2022-06-12,Anthony Delgado,section,41.49,45.1,Wisconsin
+2022-01-06,Rachel Wood,material,71.91,65.7,Maryland
+2022-12-05,Kimberly Juarez,show,245.84,40.6,Indiana
+2022-12-02,Tiffany Anderson,also,489.59,47.28,Massachusetts
+2022-03-15,Roger Johnson,into,185.51,68.35,North Carolina
+2022-07-23,Katie Rose,gun,360.76,82.88,Massachusetts
+2022-10-12,Susan Shannon,beyond,188.98,16.2,New Mexico
+2022-04-25,Robert Freeman,until,82.95,40.44,Indiana
+2022-07-19,Craig Nguyen,glass,364.81,20.25,Georgia
+2022-05-10,David Miller,actually,76.22,43.74,Kentucky
+2022-02-21,Amy Wilson,wife,39.48,20.19,Iowa
+2022-01-21,Rebecca Chandler,provide,379.17,26.51,Vermont
+2022-03-09,Stephanie Parker,what,240.58,66.64,North Dakota
+2022-05-04,Craig Baker,call,162.22,44.82,Pennsylvania
+2022-04-27,Aaron Stewart,sport,195.69,23.23,Kansas
+2022-03-26,Karen Simmons,this,161.52,74.14,Virginia
+2022-02-11,David Burke,few,126.72,98.0,North Dakota
+2022-05-25,Dominic Taylor,defense,193.38,33.97,Texas
+2022-10-17,Thomas Ingram,sound,45.2,9.21,Utah
+2022-12-23,Matthew Baldwin,much,35.73,34.87,Arkansas
+2022-12-26,Elizabeth Walker,action,307.92,82.97,North Carolina
+2022-12-31,Kent Burton,run,431.9,15.03,Washington
+2022-01-10,Alexandra Mccarthy,safe,384.61,11.92,South Dakota
+2022-06-26,Rebecca Willis,line,127.46,54.05,Kansas
+2022-11-14,Philip Turner,control,225.1,64.83,North Carolina
+2022-11-23,Dawn Fields,hear,482.41,88.08,North Carolina
+2022-03-11,James Burton,happen,79.21,48.46,Kentucky
+2022-08-28,Stephen Powell,professor,74.88,39.57,Indiana
+2022-08-07,Edward Williams,always,450.51,3.42,Wyoming
+2022-08-17,Jessica Graham,arm,18.81,86.99,Oklahoma
+2022-09-03,Steven Murphy,fire,317.12,45.21,Nebraska
+2022-02-16,Russell Olson,run,391.99,98.17,Georgia
+2022-06-27,Shane Shelton,those,468.38,36.11,Connecticut
+2022-11-21,Cody Mcdonald,through,407.47,4.26,Colorado
+2022-09-15,Timothy Brown,type,240.99,25.51,Wyoming
+2022-05-27,Valerie Brown,play,293.25,76.58,Maine
+2022-11-27,Todd Martinez,major,451.45,14.24,Michigan
+2022-10-10,Jesse Perkins,change,250.52,21.42,South Dakota
+2022-03-09,Brian Horton,myself,106.7,81.6,New Mexico
+2022-09-23,Tammy Gomez,range,289.93,14.77,Alabama
+2022-01-05,Katherine Smith,itself,441.66,10.79,North Carolina
+2022-07-19,Amber Ramos DDS,art,218.77,17.07,Pennsylvania
+2022-10-18,Matthew Singh,treatment,289.57,82.88,Tennessee
+2022-02-19,Ann Roberts,accept,29.3,88.69,Oklahoma
+2022-12-27,Kim Soto,experience,363.18,47.2,Georgia
+2022-11-04,Melissa Marsh,crime,139.97,76.53,Delaware
+2022-05-04,Raymond Smith,develop,337.0,77.5,North Dakota
+2022-07-02,Brittney Brooks,form,124.12,7.88,Idaho
+2022-07-27,Brittany Daniels,heavy,111.48,59.12,Vermont
+2022-04-15,Connie Peters,house,206.16,49.31,Texas
+2022-08-25,Jason Lopez,direction,357.56,1.27,Delaware
+2022-10-28,Daniel Anderson,key,93.92,35.73,Maryland
+2022-01-01,Stephanie Rose,throughout,202.9,18.94,Louisiana
+2022-01-16,Sydney Arias,daughter,139.13,15.63,South Dakota
+2022-09-10,David Gill,all,472.03,30.28,Wyoming
+2022-05-24,Ronald Hunter,light,242.33,53.33,Indiana
+2022-03-02,Matthew Hinton,idea,23.98,86.69,Pennsylvania
+2022-12-13,William Young,small,480.64,57.93,Oklahoma
+2022-12-28,Brian Harris,today,383.82,55.65,Texas
+2022-05-20,Paul Thompson,after,471.51,15.79,Alabama
+2022-06-03,Danielle Smith,among,317.47,40.17,Michigan
+2022-08-24,Ronald Lee,push,131.17,39.79,Indiana
+2022-03-27,Gary Lee,billion,434.88,90.27,Alabama
+2022-09-09,Patricia Mcguire,phone,498.23,52.89,Oklahoma
+2022-09-08,Mrs. Jill Peters DDS,friend,433.38,24.54,New York
+2022-03-23,Jodi Rivera,subject,216.35,89.81,Pennsylvania
+2022-08-14,Emily Smith,society,427.58,91.95,Nevada
+2022-05-26,David Garcia,clear,359.2,13.96,Minnesota
+2022-04-05,Stephanie Macias,TV,251.49,18.37,Connecticut
+2022-10-02,Robert Paul,make,370.56,66.62,Michigan
+2022-07-13,Kelsey Henderson,scientist,484.68,89.49,Montana
+2022-12-10,Danielle Griffin,these,456.81,26.65,Missouri
+2022-04-22,Matthew Lopez,health,355.66,98.1,Rhode Island
+2022-01-08,Walter Hughes,agency,126.55,83.75,Pennsylvania
+2022-08-01,David Ford,early,384.54,97.7,Colorado
+2022-07-15,Gabriel Gonzalez,student,179.52,44.8,Vermont
+2022-02-03,Richard Sandoval,before,491.09,9.34,Alaska
+2022-10-04,Cynthia Perez,common,89.02,63.15,North Dakota
+2022-12-23,Shannon Young,money,446.45,7.19,South Carolina
+2022-02-21,Brian Mason,walk,393.61,21.57,Oklahoma
+2022-12-07,Stacy Morgan,rise,295.16,9.1,Iowa
+2022-12-01,Jenna Montoya,with,363.19,32.47,New Mexico
+2022-01-09,Jeffrey Miles,scene,169.81,25.6,New Mexico
+2022-04-29,Robert Stewart,where,415.15,72.58,Minnesota
+2022-12-17,Amy Wiggins,mouth,338.91,31.61,Texas
+2022-02-21,Caitlin Gardner,ten,287.2,73.69,Rhode Island
+2022-05-01,Ann Moore,population,427.14,22.13,Tennessee
+2022-04-28,James Smith,agency,350.96,60.26,Rhode Island
+2022-05-06,Matthew Roberts,very,384.18,82.25,California
+2022-01-05,Mallory Jones,discussion,37.34,47.7,Massachusetts
+2022-09-09,Tamara Harris,thus,11.93,67.25,Pennsylvania
+2022-11-02,Joshua King,cut,184.98,55.57,Massachusetts
+2022-12-30,Kimberly Harmon,sometimes,47.02,32.18,New Mexico
+2022-09-02,Anthony Jimenez,toward,394.83,33.4,Illinois
+2022-01-12,Jason Bell,detail,63.75,50.0,Kentucky
+2022-05-16,Danielle Lynch,care,316.2,38.47,Delaware
+2022-10-12,Sean Cunningham,action,151.3,41.41,Florida
+2022-11-04,Deborah Smith,yet,388.35,12.55,New Jersey
+2022-10-18,Johnny Olson,vote,451.78,29.84,South Dakota
+2022-11-15,Cameron Sharp,threat,253.2,96.53,West Virginia
+2022-12-31,Ronald Leblanc,campaign,356.16,31.61,Maryland
+2022-10-10,Corey Williams,particular,434.52,70.96,North Dakota
+2022-10-18,William Boyd,wear,165.3,41.52,Massachusetts
+2022-09-08,Katie Morales,meet,342.17,1.53,New Jersey
+2022-10-13,Susan Jones,benefit,369.57,64.15,Oklahoma
+2022-01-20,Jimmy Martinez,economy,27.88,47.03,Hawaii
+2022-10-03,Mrs. Renee Phillips,student,267.14,39.26,Nebraska
+2022-07-03,Brian Moreno,ready,392.31,50.2,Oregon
+2022-03-09,Margaret Day,ground,386.97,40.39,Maryland
+2022-09-11,Anne Morgan,example,256.43,67.46,Kansas
+2022-10-31,Amber Zimmerman,green,159.63,94.66,Alaska
+2022-06-07,Erin Young,population,43.43,2.29,Missouri
+2022-12-11,Ronald Williams,bad,144.09,74.73,Iowa
+2022-09-25,Jennifer Johnson,traditional,446.58,43.02,Florida
+2022-05-17,Maria Thomas,area,454.68,13.22,South Dakota
+2022-04-17,Valerie Sanchez,fish,390.05,20.07,Nevada
+2022-09-02,Carol Underwood,beautiful,325.07,33.21,Mississippi
+2022-06-27,Christina Novak,tonight,201.65,64.63,New York
+2022-07-19,Corey Turner,key,39.55,54.99,Oklahoma
+2022-05-16,Heather Gonzalez,her,350.35,43.94,Ohio
+2022-07-18,Brett Escobar,necessary,487.73,5.82,Georgia
+2022-01-05,Debra Washington,hospital,247.31,57.61,Louisiana
+2022-05-28,Tonya Gillespie,expert,460.65,89.9,North Carolina
+2022-07-27,Chad Moore,interest,45.93,94.99,California
+2022-02-11,Katherine Jackson,seven,193.47,9.0,Kentucky
+2022-11-29,Nicole Washington,speech,417.73,47.34,West Virginia
+2022-07-30,Sara Villarreal,attack,469.56,23.14,Washington
+2022-10-07,Deborah Castillo,up,41.51,12.89,Louisiana
+2022-11-10,Brianna Salinas,agent,103.79,53.97,Oregon
+2022-01-15,Felicia Hunter,new,429.61,83.17,West Virginia
+2022-03-04,Autumn Wilkins,avoid,295.6,35.59,Utah
+2022-08-09,Gregory Castillo,although,156.71,92.78,New Hampshire
+2022-05-03,Kyle Hernandez,through,450.61,5.75,New Hampshire
+2022-10-17,Kimberly Harrison,ok,300.14,10.8,Arizona
+2022-12-27,Katrina Anderson,fish,400.06,82.74,New Jersey
+2022-08-05,Kathy Davis,mean,455.29,31.13,Kansas
+2022-09-20,Andrew Morton,choose,308.86,10.84,Illinois
+2022-05-18,Samantha Good,weight,114.49,83.3,Oklahoma
+2022-07-29,Victor Mcneil,human,75.81,90.67,Nevada
+2022-06-12,Christopher Hebert,large,52.03,12.52,Maine
+2022-03-31,Vanessa Kelly,former,221.49,42.62,Wisconsin
+2022-03-14,Brittany White,list,167.17,99.88,Indiana
+2022-10-24,Krista Ellison,art,32.11,34.26,Nevada
+2022-11-07,Sarah Brown,another,103.17,83.9,Delaware
+2022-02-09,Michael Riddle,smile,375.13,37.71,South Carolina
+2022-08-27,Brandi Flynn,author,310.88,25.65,Arkansas
+2022-10-19,Carrie Tanner,yet,98.19,70.11,West Virginia
+2022-03-26,Jane Horn,walk,194.59,65.63,Georgia
+2022-01-05,Julie Smith,when,383.19,29.92,Missouri
+2022-07-19,Diane Guzman,listen,333.56,86.41,South Dakota
+2022-09-12,Joseph Velez,form,23.53,76.71,Vermont
+2022-04-09,Courtney Ramos,health,133.5,58.34,Alabama
+2022-11-26,Nicole Rios,worry,27.8,81.98,North Dakota
+2022-06-14,Kimberly Reed,those,115.59,17.29,Colorado
+2022-10-08,Austin Reeves,bag,194.82,87.04,Nebraska
+2022-01-16,James Jones,together,439.04,79.67,Montana
+2022-04-24,Susan Stephens,different,314.6,52.12,West Virginia
+2022-05-01,Daniel Ellis,other,102.67,67.81,North Carolina
+2022-09-03,Michael King,radio,67.65,37.15,Washington
+2022-09-07,Kimberly Mckee,read,258.53,80.84,Alaska
+2022-04-12,Adam Peterson,or,31.78,1.96,Missouri
+2022-01-11,Bryan Barnes,mean,286.33,27.2,North Dakota
+2022-04-13,Wanda Thompson,central,22.25,29.72,South Dakota
+2022-06-28,James Ruiz,season,468.57,86.55,Minnesota
+2022-02-26,Thomas Stone,director,389.65,64.04,South Dakota
+2022-06-21,Dominic Summers,realize,107.14,16.51,Delaware
+2022-07-14,Brenda Barrera DDS,student,231.22,15.38,Washington
+2022-11-22,Brooke Hall,whole,203.5,72.21,Nebraska
+2022-04-13,Lauren Gilmore,science,20.69,35.14,Arkansas
+2022-06-16,Jon Nelson,course,268.47,18.75,Oregon
+2022-01-26,Troy Davenport,above,380.51,17.54,California
+2022-11-07,Paige Baker,discussion,94.05,78.44,Iowa
+2022-11-26,Donna Faulkner,ability,294.39,33.06,Hawaii
+2022-11-10,Christina Miller,public,23.17,16.54,Wisconsin
+2022-09-12,Antonio Hall,whether,415.11,85.45,New Mexico
+2022-03-26,Tracey Ryan,maintain,129.66,38.49,Mississippi
+2022-11-21,Michelle Allen,majority,64.22,48.74,New Mexico
+2022-04-20,Samantha Little,civil,477.81,87.23,New Jersey
+2022-03-30,Kyle Walsh,participant,75.99,41.93,Michigan
+2022-04-04,Richard Pace,himself,422.45,27.39,Hawaii
+2022-05-11,Michael Barrera,although,392.03,37.26,South Dakota
+2022-07-08,Tanya Moore,security,93.81,59.57,Mississippi
+2022-04-06,Christian Garcia,several,384.48,48.84,Kentucky
+2022-09-15,Michael Allison,assume,108.44,73.94,Missouri
+2022-06-28,Timothy Obrien,clearly,94.88,92.34,Maine
+2022-11-17,Robert Mathews,create,231.48,15.1,Virginia
+2022-07-03,Alexandria Padilla,small,298.1,52.82,Ohio
+2022-04-03,Daniel Payne,prove,272.36,38.3,Arizona
+2022-08-10,Dawn Weber,will,172.09,35.28,Texas
+2022-12-17,Vanessa Myers,city,94.3,13.17,California
+2022-02-03,Denise Nelson,attention,175.35,42.56,Alabama
+2022-03-23,Sharon Gutierrez,majority,287.28,5.08,South Carolina
+2022-01-10,Dominique Hammond,necessary,384.76,48.82,Utah
+2022-02-03,Dalton Knox,action,380.7,66.99,Washington
+2022-11-19,Charles Kent,across,114.38,37.09,Louisiana
+2022-07-05,Mary Bryant,always,378.55,82.39,West Virginia
+2022-03-25,Jasmine Chen,his,154.51,52.32,Kentucky
+2022-04-03,Jay Holden,affect,454.12,82.44,North Carolina
+2022-06-17,Kathleen Hodges,condition,327.57,78.0,Florida
+2022-03-14,Amy Butler,while,216.67,78.63,Wisconsin
+2022-01-14,Jordan Davis,whatever,201.26,28.61,New York
+2022-12-17,Christina Johns,throw,359.47,94.99,Florida
+2022-08-30,Zachary Novak,series,381.39,84.85,Missouri
+2022-04-24,Dylan Richards,care,224.75,9.84,New York
+2022-09-04,Loretta Lane,because,160.38,75.92,Utah
+2022-07-21,David Neal,later,69.91,83.13,Florida
+2022-12-27,Daniel Fuller,bad,375.17,83.2,Michigan
+2022-12-15,Angela Bell,fly,115.28,36.24,Connecticut
+2022-12-04,Beth Fischer,consumer,296.29,81.75,Connecticut
+2022-03-17,Tracy Gutierrez,training,88.87,79.54,Connecticut
+2022-01-07,Edwin Garcia,four,72.7,84.1,Kentucky
+2022-07-13,Dawn Watkins,reduce,165.46,88.04,Montana
+2022-03-04,Matthew Reilly,film,434.72,6.03,Vermont
+2022-10-31,Louis Rogers,question,83.39,70.29,Arkansas
+2022-09-28,Kristen Powell,world,55.07,30.73,Arkansas
+2022-03-30,Lisa Bryant,beat,390.32,46.81,California
+2022-08-29,Joel Campbell,town,449.68,76.19,Hawaii
+2022-12-17,Elizabeth Murphy,join,439.48,58.53,Florida
+2022-01-04,Miss Emily Weber,left,19.46,19.55,Michigan
+2022-04-27,Kirsten Bush,modern,172.02,64.27,Mississippi
+2022-07-13,Jose Lawrence,travel,208.34,56.38,Michigan
+2022-08-28,Aimee Tyler,summer,376.69,98.73,California
+2022-03-16,Kristie Williams,exactly,106.94,47.37,Montana
+2022-02-02,William Kelley,information,219.88,14.35,Oregon
+2022-04-27,Gary Peterson,suffer,27.02,21.7,Kansas
+2022-10-09,William Ramirez,born,228.12,51.15,Wyoming
+2022-04-15,Gregory Wright,effort,447.91,86.97,South Carolina
+2022-05-19,Anthony Miller,least,328.54,85.1,Virginia
+2022-05-28,Robert Simpson,expert,268.8,15.74,Washington
+2022-02-15,Miss Crystal Lawson,well,141.4,88.25,Wyoming
+2022-03-26,Anthony Ford,song,382.63,75.51,Virginia
+2022-09-25,Tiffany Woodard,show,274.93,81.52,Connecticut
+2022-09-14,Robert Taylor,community,326.09,21.23,Tennessee
+2022-06-13,Jennifer Flores,really,282.49,54.07,New Jersey
+2022-09-28,Dustin Nelson,agree,127.7,95.89,California
+2022-07-11,Samuel Reyes,consumer,77.97,44.19,Missouri
+2022-03-13,James Barr,order,341.7,24.62,North Dakota
+2022-06-03,Keith Heath,for,440.37,31.98,Utah
+2022-10-03,Stephanie Thomas,ahead,403.48,59.88,South Dakota
+2022-10-27,Alexandra Smith,let,238.12,41.03,Arkansas
+2022-12-16,Brent Scott,Congress,288.86,59.92,Maine
+2022-10-30,Troy Walters,her,189.85,83.02,Alabama
+2022-06-14,Nicholas Peterson,role,340.33,75.3,Idaho
+2022-11-17,Richard Ross,agent,14.57,4.94,Illinois
+2022-07-16,Richard Clark,perhaps,302.42,38.27,Illinois
+2022-04-19,Douglas Wells,where,192.34,79.98,Connecticut
+2022-12-09,Christine Cook,man,352.9,48.49,New Jersey
+2022-11-30,Jay Silva,something,345.37,70.34,Maryland
+2022-04-29,Christina Pearson,management,323.56,2.93,Indiana
+2022-04-21,Paige Norris,even,195.83,53.43,Maryland
+2022-03-29,Michael Henderson,few,164.75,12.09,Ohio
+2022-01-22,Erica Lyons,produce,242.83,15.04,Arkansas
+2022-12-22,Jennifer Sandoval,section,355.43,9.98,New Hampshire
+2022-04-04,Michael Dennis,south,113.09,95.6,California
+2022-06-20,Linda Wright,office,492.98,28.37,New Mexico
+2022-03-06,Kathy Moreno,north,193.18,15.86,Arkansas
+2022-07-05,Stephen Hickman,friend,422.16,87.38,Washington
+2022-01-16,Brian Flynn,school,480.61,87.02,Washington
+2022-10-20,Brandon Lucas,nice,88.56,15.04,Indiana
+2022-04-01,Vicki Hill,reflect,346.71,46.86,South Carolina
+2022-06-25,Crystal Dudley,do,467.88,64.63,Connecticut
+2022-07-12,Katelyn Francis,use,99.44,61.88,Montana
+2022-02-16,Joanna Gonzalez,general,330.97,4.29,Montana
+2022-02-12,Krystal Wheeler,power,124.53,65.25,Oregon
+2022-09-29,Roberto Mendoza,no,487.28,52.69,Kansas
+2022-03-10,Zachary Higgins,movie,470.79,10.35,North Carolina
+2022-04-14,Samuel Anderson,unit,262.18,95.88,Iowa
+2022-02-27,Laura Palmer,group,392.04,19.16,Texas
+2022-10-12,Jose Cabrera,son,441.89,61.17,Delaware
+2022-02-14,Tyrone Smith,fine,458.1,44.57,Montana
+2022-08-16,Ashley Buchanan,well,381.63,59.88,New Mexico
+2022-01-06,Lisa Baker,real,488.59,25.17,Idaho
+2022-09-05,Kimberly Henry,economy,396.15,5.19,North Dakota
+2022-03-13,Keith Sutton,employee,59.13,86.13,Rhode Island
+2022-08-08,Michael Thomas,keep,42.69,88.79,Minnesota
+2022-12-10,Kimberly Swanson,visit,41.73,51.84,Arizona
+2022-01-17,Mr. Marcus Kelley,husband,183.39,31.99,Connecticut
+2022-11-25,John Baxter,third,496.15,9.45,North Dakota
+2022-12-07,Craig Chambers,interest,312.24,34.28,Tennessee
+2022-12-28,Brian Davis,bag,127.9,44.45,New Jersey
+2022-09-27,Tina Stephens,institution,484.46,88.15,Vermont
+2022-10-28,Dawn Sanchez,both,419.13,63.81,Montana
+2022-09-19,Bill Diaz,provide,392.39,2.24,Arkansas
+2022-09-07,Alexis Maynard,which,350.89,29.38,Ohio
+2022-10-06,Robin Smith,wait,484.88,41.26,Vermont
+2022-10-21,Matthew Jackson,once,395.68,80.71,Nebraska
+2022-03-17,Dr. Donald West,TV,245.5,69.31,Kentucky
+2022-06-07,Todd Johnson,spend,328.39,29.36,Maryland
+2022-04-24,Christine Jones,person,193.69,76.52,Michigan
+2022-08-04,Carol Lawrence,improve,251.85,41.65,Louisiana
+2022-01-01,Dillon Lewis,keep,449.55,78.71,Massachusetts
+2022-01-27,Tina Erickson,company,140.08,11.46,Massachusetts
+2022-01-02,Shannon Smith,own,470.84,33.62,Colorado
+2022-02-07,Zachary Bell,race,173.14,86.57,Rhode Island
+2022-12-13,Kristopher Hudson,sort,292.63,9.08,Pennsylvania
+2022-08-02,Christina Nelson,very,185.57,59.05,Louisiana
+2022-03-07,Alexa Harris,weight,372.24,34.5,Oregon
+2022-10-11,Jacob Thomas,debate,411.52,79.04,Montana
+2022-08-07,Jonathan Clay,information,300.91,88.48,Alaska
+2022-12-24,Aaron Lyons,similar,233.01,53.12,South Carolina
+2022-11-11,John Washington,join,497.33,77.15,Florida
+2022-01-28,Ricardo Reilly,former,496.87,8.76,Massachusetts
+2022-10-09,Sarah Campbell,high,39.13,44.45,Delaware
+2022-12-09,Cameron Hernandez,population,159.81,93.9,Utah
+2022-05-20,Ruth Fischer,experience,374.09,92.91,New Hampshire
+2022-08-10,Sydney Jimenez,not,469.69,59.43,Louisiana
+2022-03-10,Monica Howell,international,343.16,71.07,Wisconsin
+2022-02-22,Janet Doyle,car,253.26,30.27,Minnesota
+2022-11-11,Michael Dixon,stay,403.98,81.2,Wyoming
+2022-02-03,Kaitlin Johnson,month,463.89,30.55,Missouri
+2022-02-08,Jonathan Davis,should,386.97,23.01,Kansas
+2022-10-12,David Walker,work,280.3,40.15,Connecticut
+2022-05-06,Deborah Floyd,buy,330.69,27.59,New Mexico
+2022-01-26,Mark Scott,business,344.53,46.54,Oklahoma
+2022-02-17,Joe Ramos,create,428.23,34.46,Hawaii
+2022-10-01,Paul Hawkins,describe,238.05,78.28,Kentucky
+2022-11-29,Holly Flores MD,board,227.76,3.02,Nebraska
+2022-10-31,Noah Kramer,PM,60.45,42.77,Oregon
+2022-03-17,Jessica Perez,Congress,54.1,19.31,Alaska
+2022-07-07,Ryan Woods,fill,439.22,40.54,Utah
+2022-08-05,Matthew Brooks,drop,197.75,81.21,North Dakota
+2022-01-19,Diana Lewis,above,50.45,75.46,New Mexico
+2022-02-22,Maria Dixon,you,153.21,8.82,Iowa
+2022-01-31,Jennifer Richardson,wrong,378.53,6.05,Tennessee
+2022-11-19,Matthew Sutton,nothing,222.92,39.65,Colorado
+2022-03-02,Pamela Li,military,79.91,87.5,North Dakota
+2022-05-30,Rachel Raymond,value,208.78,90.37,Indiana
+2022-04-06,Mr. Robert Wood,seven,487.46,50.5,California
+2022-11-10,Brandon Werner,tax,452.33,13.98,Utah
+2022-12-16,Wendy Pearson,rate,474.4,59.51,Illinois
+2022-11-28,Timothy Yoder,arrive,78.4,68.81,Connecticut
+2022-01-18,Christina Bradford,friend,441.94,91.61,Wyoming
+2022-06-06,Sarah Butler,make,358.85,51.95,Washington
+2022-08-14,Mark Jones,away,496.49,20.75,North Carolina
+2022-08-07,Melvin Brown,represent,454.66,62.67,Oregon
+2022-02-10,David Hunter,customer,38.83,84.59,Utah
+2022-06-12,Katherine Fernandez,small,384.55,94.78,Georgia
+2022-05-19,Adam Haney,character,254.41,40.19,Montana
+2022-11-23,Gregory Simpson,air,305.17,17.82,Illinois
+2022-03-02,Jason Jackson,early,489.52,39.82,Arizona
+2022-08-28,David Giles,significant,452.76,12.67,Rhode Island
+2022-01-07,Kimberly Anderson,present,258.7,63.15,Missouri
+2022-09-27,Elizabeth Fernandez,result,59.94,58.96,West Virginia
+2022-07-05,Joel Bailey,item,398.35,46.84,Oregon
+2022-09-22,James Sutton,discussion,383.43,74.85,Minnesota
+2022-11-21,Nathaniel Romero,present,387.47,60.07,Rhode Island
+2022-11-06,Ryan Diaz,produce,189.85,2.62,Rhode Island
+2022-11-01,Joshua Stevens,order,418.45,17.19,Pennsylvania
+2022-05-12,Melissa Howard,see,339.42,51.24,Kentucky
+2022-01-09,Stephanie Rogers,eight,388.14,39.1,California
+2022-02-03,Timothy Brown,record,412.92,82.66,Nevada
+2022-05-05,Ashley Berger,while,242.85,61.57,Ohio
+2022-07-26,Lauren Schwartz,of,305.31,24.66,Alabama
+2022-05-19,Aaron Gonzalez,brother,360.61,89.7,Hawaii
+2022-11-20,Joseph Silva,conference,248.66,19.85,Tennessee
+2022-10-28,Keith Nguyen,either,392.47,89.99,Minnesota
+2022-03-29,Maria Nunez,gas,121.3,3.5,Kentucky
+2022-05-30,Mrs. Abigail Mcintosh,leave,453.23,66.19,Missouri
+2022-07-11,James Castro,officer,326.98,97.27,Maine
+2022-05-16,Austin Tate,away,62.33,22.66,Maine
+2022-02-28,Wyatt Trujillo,receive,490.4,44.54,Michigan
+2022-10-10,Vicki Kramer,major,47.33,90.74,New York
+2022-02-16,Lisa Ferguson,throw,423.16,66.57,Alabama
+2022-07-13,Rachel Smith,manage,132.55,62.73,Arkansas
+2022-08-02,Felicia Kelly,ball,428.94,2.75,South Dakota
+2022-10-01,Kelly Mitchell,customer,268.78,63.65,California
+2022-02-12,Nicholas Cabrera,responsibility,357.26,22.26,Delaware
+2022-02-04,Mr. Paul Jones,trial,483.93,37.09,Washington
+2022-02-13,Stanley Smith,instead,114.45,29.68,Montana
+2022-04-22,Andrew Christensen,federal,313.67,91.77,West Virginia
+2022-10-02,Jane Patel,fear,11.74,62.84,Hawaii
+2022-10-21,Richard Sheppard,partner,456.46,83.9,Virginia
+2022-01-27,Kayla Rodgers,machine,243.23,76.25,Montana
+2022-07-10,Megan King,senior,327.81,17.2,Hawaii
+2022-01-03,Sonya West,five,456.02,80.77,Iowa
+2022-02-27,Mr. Jacob Peters DDS,resource,276.32,45.51,Montana
+2022-08-02,Donald Rodriguez,picture,483.84,90.09,Nevada
+2022-06-16,Paul Obrien,table,427.16,94.55,Michigan
+2022-03-20,Mark Elliott,these,26.65,56.81,Rhode Island
+2022-03-31,Samantha Morgan,argue,380.14,40.23,Virginia
+2022-09-26,Joanna Mccarthy,matter,253.02,32.36,South Carolina
+2022-03-20,Jorge Hanna,item,298.31,48.15,Wisconsin
+2022-04-20,April Pena,put,484.82,37.85,Alabama
+2022-10-22,Seth Wood,raise,36.4,97.73,South Dakota
+2022-07-14,Frank Gates,single,265.22,71.46,Pennsylvania
+2022-03-31,Phillip Anthony,fall,388.99,42.05,Indiana
+2022-04-12,Lindsey Moreno,shoulder,247.11,79.48,Idaho
+2022-07-01,Jose Chang,there,307.83,11.77,Hawaii
+2022-06-22,Michael Coleman,three,50.41,93.67,Ohio
+2022-10-04,Stephanie Rodgers,outside,300.38,13.29,Texas
+2022-07-08,Gina Newman,mention,466.85,18.49,West Virginia
+2022-10-29,William Dixon,staff,112.42,83.63,Maryland
+2022-01-10,Derek Williams,bag,259.14,88.96,Alabama
+2022-02-10,Terrance Wong,pretty,45.35,73.63,Georgia
+2022-09-26,Ana Peterson,sell,499.06,61.89,Delaware
+2022-10-13,Shari Livingston,and,317.13,92.64,Arkansas
+2022-06-27,Victor Lee,election,157.45,36.48,Washington
+2022-06-23,Michael Morrison,popular,243.1,40.88,West Virginia
+2022-01-05,Kimberly Butler,hit,324.64,83.92,Louisiana
+2022-06-07,Jessica Pierce,right,211.72,8.71,Kentucky
+2022-08-11,Karen Brown,produce,381.26,9.54,North Dakota
+2022-05-20,Jeremy Harris,commercial,382.98,71.84,New Jersey
+2022-09-06,Dwayne Williamson,ok,417.06,63.68,Oklahoma
+2022-07-17,Brooke Gibson,price,27.18,82.1,Pennsylvania
+2022-02-20,Denise Russell,section,89.73,1.13,North Dakota
+2022-01-05,Cody Gordon,art,328.88,48.85,Arkansas
+2022-09-06,Susan Davis,huge,69.84,41.16,Utah
+2022-09-22,Anthony Martin,from,107.27,21.91,Arkansas
+2022-06-16,Melissa Lee,field,485.53,16.89,Hawaii
+2022-03-09,Jeffery Walker,human,186.41,51.43,Maryland
+2022-06-03,Randall Smith,table,289.26,88.3,Wyoming
+2022-07-07,Joshua White,law,98.9,71.76,Georgia
+2022-08-31,Scott Jackson,seem,420.54,71.02,Connecticut
+2022-08-07,Gabriel Hood,become,285.02,85.57,New Mexico
+2022-08-31,Elizabeth Nixon,kitchen,147.25,93.95,North Carolina
+2022-09-06,Luis Sharp,worry,348.65,67.75,Tennessee
+2022-02-01,Steven Hernandez,well,36.42,10.29,Kansas
+2022-07-10,Angela Townsend,employee,186.09,15.11,Colorado
+2022-01-21,Cheyenne Campbell,nor,139.03,73.65,North Dakota
+2022-02-15,Dana Sosa,population,494.09,39.67,Florida
+2022-08-13,Jake Mitchell,hot,387.76,45.93,West Virginia
+2022-09-28,Joel Thomas,to,343.88,70.38,Vermont
+2022-10-22,Robert Wilson,together,426.75,97.66,New Jersey
+2022-02-02,David Carr,trip,317.61,68.01,Hawaii
+2022-07-06,Debra Reese,read,364.84,1.62,North Carolina
+2022-09-26,Joseph Goodman,hour,447.87,3.56,Washington
+2022-06-27,Jeffrey Martinez,tax,69.04,82.28,Texas
+2022-06-21,Steven Mcdonald,single,182.47,23.52,Nevada
+2022-10-24,Nancy Brooks,collection,425.26,74.36,Virginia
+2022-09-22,James Freeman,although,189.45,66.81,Ohio
+2022-05-13,Heidi Sandoval,follow,482.77,50.13,North Carolina
+2022-09-11,Robert Terry,thing,301.31,50.61,New Hampshire
+2022-02-23,Katherine Figueroa,condition,436.96,17.07,Wisconsin
+2022-02-09,Tracey Romero,on,443.73,93.54,Maine
+2022-12-06,Jennifer Castillo,along,186.69,48.79,Delaware
+2022-05-10,Adam Smith,along,160.13,26.43,Louisiana
+2022-03-13,Cindy Pierce,bit,353.31,51.89,Oregon
+2022-07-04,Jordan Castro PhD,surface,247.07,17.31,Michigan
+2022-07-08,Angela Mccall,citizen,89.81,72.13,Georgia
+2022-07-15,Danny Ramirez,score,72.0,29.53,New Jersey
+2022-03-01,Amanda Weaver,age,75.23,51.82,Vermont
+2022-08-28,Michelle Jackson,rich,11.22,55.09,Massachusetts
+2022-08-19,Ray Sandoval,company,102.37,63.63,Pennsylvania
+2022-05-01,Scott Morris,north,374.54,22.55,New Mexico
+2022-02-28,Whitney Williams,strong,413.42,12.94,Ohio
+2022-04-24,Michael Anderson,form,151.82,62.58,Indiana
+2022-01-13,Alexandra Hansen,live,446.54,45.98,Washington
+2022-08-10,Stephanie Coffey,beautiful,360.51,88.55,Oklahoma
+2022-06-02,Nancy Ruiz,wear,117.81,5.69,New Jersey
+2022-02-13,Erin Fitzgerald,growth,172.76,15.4,Wisconsin
+2022-01-23,Mary Nunez,development,230.23,50.78,Connecticut
+2022-08-06,Julie Perry,agree,427.89,33.68,Wisconsin
+2022-12-27,Mark Norman,stuff,261.26,45.71,Pennsylvania
+2022-05-05,Andrew Guzman,test,204.12,59.35,Alaska
+2022-03-18,Patricia Weber,nation,137.11,4.99,Utah
+2022-12-28,Natasha Wallace,discussion,368.33,10.33,Hawaii
+2022-07-12,April Larson,source,396.59,19.44,Michigan
+2022-06-01,Christopher Wright,wish,68.3,98.13,Arkansas
+2022-09-22,Michael Johnson,build,349.19,93.37,Texas
+2022-01-06,Danielle Lambert,shake,143.87,76.34,New Hampshire
+2022-12-09,Brian Scott,seat,365.94,7.65,Nevada
+2022-02-03,Sharon Johnson,machine,87.41,49.63,Kansas
+2022-03-10,Ricky Hawkins,education,231.84,71.83,Kentucky
+2022-07-09,Jonathan Stanley,him,65.48,6.4,Connecticut
+2022-09-30,Sara Johnson,all,207.01,5.69,Texas
+2022-02-25,Reginald Welch,husband,17.23,36.21,Rhode Island
+2022-07-10,Jeffrey Holland,win,216.3,5.28,Massachusetts
+2022-07-16,Mark Garner,program,140.28,12.92,Illinois
+2022-10-13,Tanya Martinez,adult,272.47,61.53,North Dakota
+2022-01-03,Jill Reynolds,partner,415.15,63.95,Utah
+2022-02-24,Jill Silva,rather,417.11,55.2,Rhode Island
+2022-12-19,Deborah Ramirez,majority,20.81,13.65,Delaware
+2022-12-22,Margaret Whitehead,even,260.04,72.48,North Carolina
+2022-05-24,Ruben Johnson,nation,320.52,73.8,Mississippi
+2022-07-21,Hannah Lopez,stock,15.87,5.73,New York
+2022-09-22,Robert Calderon,job,100.42,93.23,Pennsylvania
+2022-12-08,Renee Salazar,stage,96.63,33.9,Idaho
+2022-06-25,Kimberly Snyder,recently,24.06,2.49,Nebraska
+2022-07-13,Mrs. Rebecca Fisher DVM,serious,401.23,77.87,Montana
+2022-06-25,Adam Figueroa,let,219.98,18.49,Iowa
+2022-11-04,Steven Juarez,stand,176.71,92.42,Idaho
+2022-05-03,Patricia Villegas DVM,fear,241.71,37.21,Wyoming
+2022-08-13,Ashley Castillo,to,444.68,91.63,Massachusetts
+2022-06-20,Rebecca Foster,house,437.7,76.12,New Jersey
+2022-10-26,Christina Brown,camera,226.02,5.51,Connecticut
+2022-12-07,Ashley Hess,boy,281.99,26.29,Tennessee
+2022-09-06,Pamela Warner,financial,169.85,13.28,Montana
+2022-01-02,John Cook,above,193.37,18.99,Idaho
+2022-07-30,Jason Davis,fast,108.56,45.77,Illinois
+2022-06-08,Crystal Allen,official,77.54,8.2,South Dakota
+2022-05-03,William Hall,environment,195.9,84.6,Virginia
+2022-07-26,Kevin Phillips,question,18.7,6.25,Utah
+2022-12-15,Lisa Mckay,hundred,391.21,39.68,Pennsylvania
+2022-01-03,Dan Valdez,sell,307.28,3.19,Kentucky
+2022-06-10,Jessica Hudson,suffer,123.31,44.61,Indiana
+2022-01-04,Emily Lopez,consider,180.38,41.98,Wisconsin
+2022-11-14,Michael Reed,price,63.74,10.47,Pennsylvania
+2022-02-21,Pamela Cannon,subject,144.55,62.58,Vermont
+2022-03-17,Carly Thornton,sell,389.65,46.72,Connecticut
+2022-01-23,Cody Nunez,happy,91.4,17.12,Texas
+2022-11-30,Dr. Jamie Stewart,fine,262.83,60.14,Kentucky
+2022-08-06,Travis Williams,analysis,198.14,87.67,Minnesota
+2022-02-27,Marissa Anderson,everything,373.96,64.18,New Hampshire
+2022-11-26,Amber Andrews,threat,69.38,90.57,Utah
+2022-04-05,Candice Lawrence,son,474.69,84.34,Oklahoma
+2022-08-08,Lauren Nichols,other,493.94,27.34,South Dakota
+2022-06-30,Ernest Edwards,government,24.67,7.26,Louisiana
+2022-11-30,Brian Christensen,treat,287.13,71.39,Kansas
+2022-05-25,Jessica Collins,space,432.65,72.26,Michigan
+2022-09-21,Michael Bishop,how,212.25,69.69,Washington
+2022-12-01,Lori Mills,which,434.62,8.04,Minnesota
+2022-12-24,Stacy Martinez,find,494.38,59.08,Mississippi
+2022-03-31,Zachary Richard,share,404.95,42.43,West Virginia
+2022-01-21,George Howard,build,221.45,90.54,Louisiana
+2022-02-03,Dr. Jennifer Herring,raise,60.69,38.35,South Dakota
+2022-03-02,Daniel Bond,team,426.98,18.96,Utah
+2022-05-12,Molly Manning,culture,148.39,16.86,Maine
+2022-11-26,Christina Kerr,last,267.67,81.21,Iowa
+2022-08-30,Jesse Mcfarland,ok,131.87,64.13,Nebraska
+2022-02-26,Kellie Thomas,single,205.37,42.43,Ohio
+2022-04-14,Heather Mcknight,fill,43.24,81.8,Wyoming
+2022-08-18,Isaiah Santiago,successful,13.66,29.57,Pennsylvania
+2022-03-31,Kristina Lawrence,president,99.42,3.91,North Carolina
+2022-11-08,Andrea Booth,who,129.29,36.61,Hawaii
+2022-04-20,Cassandra Dyer,only,351.45,40.93,Wisconsin
+2022-07-03,John Burke,arrive,295.08,48.09,Alabama
+2022-04-23,Damon Guzman,such,175.05,49.85,Virginia
+2022-11-14,Elizabeth Price,hold,249.96,65.37,Ohio
+2022-03-03,Rebecca Williams,research,260.2,54.78,North Dakota
+2022-01-10,Aaron Thomas,discuss,22.36,58.12,Virginia
+2022-12-07,Jordan Watson II,cold,120.4,45.02,Vermont
+2022-10-23,Laura Kelly,sell,461.7,42.09,New York
+2022-11-21,Amy Church,pass,385.91,1.69,Wyoming
+2022-05-10,Mark Harvey,customer,471.51,79.38,Utah
+2022-02-24,Ashley Thomas,outside,44.3,83.44,South Dakota
+2022-07-29,Robert Moore,pay,267.19,5.66,Massachusetts
+2022-06-16,William Simpson,only,210.62,59.05,Missouri
+2022-03-23,Joseph Erickson,authority,497.19,71.43,Wyoming
+2022-06-22,John Leach MD,raise,280.51,18.16,Ohio
+2022-07-09,Tina Garcia,church,453.51,31.27,New Jersey
+2022-07-01,Brian Jackson,inside,432.23,33.68,North Carolina
+2022-10-13,Mr. Robert Weber DDS,decide,73.26,10.06,Washington
+2022-06-13,Amy Hampton,exactly,145.42,28.27,Minnesota
+2022-08-05,Kristina Johnson,actually,224.22,65.94,Oregon
+2022-07-25,Kenneth Palmer PhD,again,284.0,9.97,Minnesota
+2022-08-08,Nathan Kidd,size,345.69,47.3,Iowa
+2022-01-02,Charlene Campos,young,410.84,86.18,Massachusetts
+2022-12-12,Wendy Edwards,expert,126.27,70.1,Washington
+2022-07-04,Timothy Soto,none,228.43,44.09,North Dakota
+2022-03-01,Mary Crawford,let,435.81,11.58,Nevada
+2022-04-21,Amy Ruiz,task,472.96,47.86,Wisconsin
+2022-09-10,Shelley Sandoval,reason,150.5,45.02,Maine
+2022-06-21,Robert Higgins,buy,160.94,2.13,Connecticut
+2022-05-04,Aaron Potter,few,274.16,38.56,Louisiana
+2022-05-06,John Davis,major,396.94,94.3,Alaska
+2022-12-27,Adam Miller,bag,332.86,58.28,Louisiana
+2022-06-27,John Johnson,understand,245.04,18.01,Wyoming
+2022-08-19,Jeffery King,call,241.74,74.47,Illinois
+2022-12-31,Andrew Meyers,whatever,426.12,44.01,Connecticut
+2022-10-31,Matthew Martin,discussion,143.91,81.92,Nevada
+2022-10-21,Katherine Martin,modern,424.04,26.79,Maine
+2022-05-11,Christopher Johnston,maybe,316.01,76.32,Rhode Island
+2022-10-02,Nicholas Fox,lay,350.03,52.99,Georgia
+2022-11-10,Stephen Gray,born,17.98,47.98,North Dakota
+2022-01-25,Brenda Anderson,simple,373.98,16.19,Illinois
+2022-07-14,Gregory Meyers,out,91.84,70.05,Oregon
+2022-12-01,Elizabeth Potts,top,25.97,97.18,Massachusetts
+2022-06-27,Michelle Lopez,truth,123.07,73.82,Rhode Island
+2022-12-23,Samuel Johnson,worker,428.94,93.13,North Dakota
+2022-11-13,Jamie Owens,those,33.93,54.6,New Mexico
+2022-07-10,Cameron Long,chance,305.11,90.75,Illinois
+2022-11-30,Barbara Friedman,happen,388.29,64.95,Iowa
+2022-10-10,Andrew Huber,ever,213.54,18.92,Wisconsin
+2022-05-22,Daniel Sanchez,pattern,152.09,76.18,Wyoming
+2022-05-29,Shane Peters,tend,128.02,8.22,North Dakota
+2022-07-25,Cathy Harris,power,466.67,72.61,Rhode Island
+2022-07-20,Julia Jenkins,goal,340.61,24.62,Missouri
+2022-11-03,Eric Brady,ahead,485.03,33.7,Kentucky
+2022-02-20,Robert Allen,from,205.07,85.63,South Dakota
+2022-05-03,Matthew Gaines,fact,412.43,57.11,Oregon
+2022-03-23,Deborah Smith,rock,326.75,52.23,Michigan
+2022-11-15,Doris Wallace,address,314.86,18.35,North Carolina
+2022-02-25,Casey Ramos,find,114.16,84.8,Utah
+2022-09-18,Jessica Reilly,sell,278.28,90.26,Georgia
+2022-03-13,David Hubbard,employee,99.94,86.18,Minnesota
+2022-01-09,Haley Turner,stand,75.74,2.68,New Jersey
+2022-06-26,Rachel Smith,already,375.31,34.67,Kansas
+2022-11-27,Rebecca Freeman,institution,361.18,51.31,Wisconsin
+2022-06-28,Andrew Perez,appear,411.53,46.27,Maine
+2022-11-22,Stephanie Todd,on,245.98,95.35,Tennessee
+2022-07-26,Roberto Walton,amount,400.69,68.34,Texas
+2022-07-18,Thomas Carroll,seek,435.35,56.06,Ohio
+2022-07-10,Meredith Andrews,each,288.18,57.43,Idaho
+2022-07-09,Pamela Walters,heavy,25.64,30.28,Michigan
+2022-06-05,Brent Hood,arrive,144.32,60.02,Ohio
+2022-05-04,Kristi Gonzalez,meet,447.63,17.99,Mississippi
+2022-12-09,Hector Rangel,heart,96.79,74.94,North Dakota
+2022-12-03,Elizabeth Patel,do,269.73,55.71,New Mexico
+2022-07-06,Adam Odonnell,rather,277.64,33.52,Texas
+2022-05-01,Lisa Johnson,list,14.92,14.78,Minnesota
+2022-12-15,Heather Garcia,difficult,372.71,67.07,Kansas
+2022-10-25,Tonya Moore,effect,487.59,60.33,Mississippi
+2022-12-24,Jenna Wright,doctor,470.65,11.01,Oregon
+2022-07-31,Hannah Cole,court,390.72,9.88,Washington
+2022-06-28,Anita Cross,vote,364.58,60.85,Minnesota
+2022-06-07,Morgan Stanley,color,249.91,59.71,Minnesota
+2022-04-30,Paul Adkins,health,298.89,11.64,Alaska
+2022-02-17,Ebony Jordan,old,133.89,38.88,South Dakota
+2022-05-24,Suzanne Herrera,third,379.11,81.08,Louisiana
+2022-04-08,Mary Morrow,both,424.46,50.67,Utah
+2022-07-28,Rodney Baker,true,37.98,97.3,Delaware
+2022-03-29,James Reese,note,235.9,27.93,South Dakota
+2022-12-23,Kimberly Miller,key,476.02,63.34,Missouri
+2022-08-14,Sharon Roberts,network,106.6,6.34,Texas
+2022-07-14,Renee Roberts,he,249.44,76.07,California
+2022-11-17,Danny Gallegos,nature,95.11,63.76,North Dakota
+2022-05-03,Carrie Finley,value,234.02,41.56,Alaska
+2022-02-02,Rachel Farley,loss,13.58,62.46,Texas
+2022-09-19,Heidi Jones,happy,250.99,71.31,Wisconsin
+2022-06-22,Susan Berry,minute,361.91,42.09,Rhode Island
+2022-05-27,Benjamin Harris,morning,105.96,58.37,New Mexico
+2022-01-12,Amanda Crawford,something,27.63,39.04,Maine
+2022-11-14,Mary Thompson,clear,490.35,75.77,Louisiana
+2022-12-24,Daniel Kennedy,stock,273.62,3.76,New Hampshire
+2022-04-09,Erin Harris,information,39.21,58.08,Delaware
+2022-06-19,Jared Freeman,bill,434.74,72.64,North Dakota
+2022-12-03,Jason Clark,product,258.51,98.79,Wyoming
+2022-12-29,Colton Turner,course,100.13,66.5,Arizona
+2022-05-13,Eric Ramsey,music,41.19,62.03,Virginia
+2022-04-03,Cole Hunt,person,393.24,30.76,North Carolina
+2022-07-03,Christopher Sutton,Republican,93.87,86.68,Virginia
+2022-06-07,Darrell Cox,claim,263.89,15.91,Arkansas
+2022-09-13,Mark Webster,bit,54.57,19.81,Virginia
+2022-06-03,Robert Guerrero IV,loss,430.83,5.97,Rhode Island
+2022-12-03,John Ryan,skin,449.92,65.27,Alabama
+2022-09-03,Tara Soto,others,166.74,95.63,Montana
+2022-01-27,George Lewis,billion,179.86,80.59,North Dakota
+2022-02-08,Jeremy Martinez,foreign,300.12,15.82,Nebraska
+2022-03-23,Allen Hawkins,professional,147.36,30.03,Arizona
+2022-10-18,Joshua Smith,field,243.05,69.7,Delaware
+2022-03-31,Dana Parsons,government,49.77,84.8,Mississippi
+2022-08-29,Stephanie Williams,fall,338.55,54.39,Montana
+2022-05-12,Mark Ross,establish,282.7,14.97,Minnesota
+2022-10-20,Penny Ochoa MD,door,454.18,30.62,North Carolina
+2022-05-31,Eric Bell,drop,204.82,53.02,Alabama
+2022-04-25,Taylor Lopez,card,388.49,69.23,Hawaii
+2022-05-29,Jose Lynn,increase,269.26,73.38,Oregon
+2022-12-10,Jessica Carlson,born,160.02,51.09,Pennsylvania
+2022-10-09,Brian Turner,lead,377.99,90.81,Rhode Island
+2022-09-14,Robin Anderson,perform,440.87,9.98,Kansas
+2022-08-30,Amanda Mckay,piece,154.93,51.33,Colorado
+2022-09-28,Susan Simmons,many,275.97,64.42,Connecticut
+2022-09-12,Tara Wright,late,232.02,72.82,North Carolina
+2022-06-16,Dawn Castillo,study,182.23,52.96,New Mexico
+2022-12-12,Caleb Wright,have,219.4,29.59,Nevada
+2022-01-24,Kevin Webb,couple,360.51,3.59,Hawaii
+2022-10-14,Tommy King,smile,54.98,75.72,South Carolina
+2022-09-09,Colleen Kim,perhaps,48.96,45.04,Utah
+2022-09-24,Jennifer Anderson,sport,30.07,95.23,Massachusetts
+2022-01-23,Tiffany Barrett,want,76.88,64.27,South Dakota
+2022-03-15,Ashley Curtis,raise,231.84,27.46,Oregon
+2022-07-17,Sarah Miranda,seek,391.93,14.02,Arkansas
+2022-07-10,Marissa Cuevas,radio,100.1,68.01,Alaska
+2022-04-01,Theresa Washington,less,162.49,72.02,Washington
+2022-06-04,Rebecca Newton,benefit,312.48,59.21,Michigan
+2022-10-31,Gabrielle Mendoza,college,345.03,13.21,Utah
+2022-02-20,Mark Ponce,new,274.29,20.88,New Hampshire
+2022-09-19,Julie Peterson,yourself,320.5,44.21,Tennessee
+2022-03-05,Clayton Lloyd,wrong,383.31,35.45,Rhode Island
+2022-04-01,Dawn Williams,left,381.27,33.13,Nevada
+2022-01-11,Robert Davis,house,189.91,58.48,Kentucky
+2022-12-17,Nancy Garza,simple,96.17,92.31,Ohio
+2022-10-19,Tina Thomas,around,481.65,19.01,Missouri
+2022-01-29,John Smith,life,444.79,24.24,Oklahoma
+2022-11-23,Jessica Miranda,notice,138.91,74.11,Missouri
+2022-02-17,Leah Hernandez,during,389.0,13.12,Maine
+2022-11-29,Derrick Nelson,at,452.4,21.33,North Carolina
+2022-07-10,Amanda Flores,able,226.48,93.24,Connecticut
+2022-06-15,George Watkins,officer,87.17,73.4,Virginia
+2022-01-09,Crystal Bailey,write,38.79,52.1,North Carolina
+2022-07-29,Tina Graham,wonder,410.83,14.33,Ohio
+2022-03-09,Robert Sloan,amount,490.89,37.41,Iowa
+2022-05-31,Emily Farrell,southern,306.3,45.38,Alabama
+2022-08-31,Eric Garcia,ten,246.43,15.46,Illinois
+2022-02-17,Kylie Hernandez,build,194.89,78.69,Washington
+2022-05-25,Alicia Terrell,just,401.36,21.93,Ohio
+2022-07-10,Robert Blair,political,114.67,4.93,Nevada
+2022-06-11,Dr. Eileen Nelson,work,198.01,32.13,Arkansas
+2022-01-01,Brian Miller,tough,312.99,47.64,Pennsylvania
+2022-04-21,Angela White,second,112.05,65.24,Nebraska
+2022-12-17,Jennifer Benson,her,307.46,70.98,Illinois
+2022-09-02,Chelsea Lam,he,347.7,88.02,New York
+2022-01-26,Tracy Martinez,him,13.68,22.01,New Mexico
+2022-07-25,Joshua Davis,any,381.41,36.97,Wyoming
+2022-11-30,James Lyons,maybe,316.46,94.86,Nebraska
+2022-11-14,Karen Cummings,plan,43.56,84.08,Georgia
+2022-05-23,Patrick Mayer,story,134.61,21.02,West Virginia
+2022-04-27,Mr. Adam Johnston,according,468.12,83.09,Texas
+2022-10-13,Donna Mann,others,95.28,75.61,South Carolina
+2022-06-24,Christine Chavez,control,173.5,6.9,Iowa
+2022-11-03,Rodney Gutierrez,a,479.35,94.67,Missouri
+2022-01-29,Tiffany Rogers,go,90.18,47.94,Nevada
+2022-11-02,Walter Barton,she,175.72,42.3,Oregon
+2022-01-28,Hannah Oliver,side,155.49,71.0,Texas
+2022-07-15,Raymond Ramirez,old,339.72,40.86,Delaware
+2022-04-06,Stephanie Lutz,believe,281.02,7.77,Iowa
+2022-03-12,Joseph Diaz,prepare,408.82,51.11,North Carolina
+2022-11-19,Valerie Fitzpatrick,stand,309.43,37.81,Nevada
+2022-08-04,Ronald Fuller,first,224.94,99.89,Utah
+2022-09-14,Danielle Wheeler,yourself,132.28,47.01,New Mexico
+2022-03-06,Dr. Curtis Carlson PhD,financial,124.72,92.83,West Virginia
+2022-10-20,Jonathan Spencer,sign,140.08,23.87,Connecticut
+2022-02-08,Daniel Dickerson,throw,375.01,43.21,Tennessee
+2022-02-23,Barry Henderson,point,66.37,31.86,Indiana
+2022-07-06,Beth Ball,other,205.94,40.12,Washington
+2022-03-21,Jay Graves,picture,433.86,91.7,Alaska
+2022-01-13,Heather Bernard,identify,452.0,72.77,Montana
+2022-04-04,Rhonda Miller,test,341.22,1.64,Rhode Island
+2022-01-31,Jesse Duffy,again,392.75,29.62,New Jersey
+2022-02-06,Samantha Gray,opportunity,322.92,47.99,New York
+2022-08-17,Briana Miller,central,301.48,41.97,Indiana
+2022-08-08,Shannon Le,attention,423.53,35.15,New York
+2022-06-08,Michael Bennett,similar,293.86,48.06,West Virginia
+2022-05-01,Renee Mcmahon,performance,92.65,9.4,Minnesota
+2022-06-16,Jerry Welch,song,138.72,19.0,Idaho
+2022-03-30,Laura Henry,unit,217.26,45.95,Hawaii
+2022-05-03,Brandon Bass,ever,447.14,6.91,Mississippi
+2022-07-16,Melissa Richardson,energy,268.1,35.75,Wyoming
+2022-09-18,Cassandra Mills,decide,385.3,42.43,New York
+2022-03-22,Brandon Wilcox,market,170.58,61.29,South Carolina
+2022-04-16,Brian Glenn MD,local,66.83,4.72,Hawaii
+2022-08-13,Lisa Diaz,century,100.03,67.8,Iowa
+2022-03-17,Kristina Cohen,run,401.9,36.16,Texas
+2022-07-30,Sandra Gardner,language,45.6,29.01,Maryland
+2022-10-01,Adrian Smith,few,141.22,21.55,Nebraska
+2022-06-21,Nicholas Peterson,continue,33.01,37.75,Oklahoma
+2022-04-12,Jeremy Wade,what,128.72,29.42,Pennsylvania
+2022-09-04,Eric Vaughn,worry,134.31,48.45,Wyoming
+2022-01-08,Jamie Hernandez,green,74.47,39.74,Florida
+2022-10-06,Terri Miller,result,461.59,84.2,South Carolina
+2022-08-15,Donna Nguyen,majority,242.27,34.99,Maryland
+2022-10-29,Rodney Clark,class,458.83,88.86,Arizona
+2022-10-12,Eugene Turner,wall,88.65,59.73,Minnesota
+2022-10-07,Mr. Ryan Bates,director,455.29,92.82,Washington
+2022-11-28,Jonathan Hayes,fire,219.63,10.6,Louisiana
+2022-08-25,Lisa Jones,kind,335.36,51.49,Montana
+2022-01-19,Jamie Ryan,discussion,392.71,94.18,New Jersey
+2022-04-10,Mr. John Lopez,relate,61.92,4.31,Iowa
+2022-02-19,Joy Mcdonald,garden,434.29,53.91,Mississippi
+2022-01-24,Angel Perez,box,229.78,12.89,New Jersey
+2022-09-12,Samantha Bass,issue,321.25,56.42,Arizona
+2022-04-27,David Baldwin,fight,251.22,27.72,Nevada
+2022-02-19,Katherine Ramos,win,366.88,74.27,Alabama
+2022-09-05,James Williams,fish,144.55,38.13,California
+2022-06-12,Suzanne Santiago,put,307.31,16.31,Massachusetts
+2022-11-10,Rebekah Smith,travel,28.6,68.93,Vermont
+2022-11-24,Jack Davidson,assume,370.79,95.22,Louisiana
+2022-03-16,Christy Lucero,realize,322.52,31.35,New Mexico
+2022-05-05,Dr. Amanda Turner MD,by,160.56,98.77,Nebraska
+2022-06-21,Meagan Stanley,glass,436.91,38.01,Pennsylvania
+2022-05-12,Stacey Allen,themselves,101.06,6.64,Wisconsin
+2022-12-06,Steven Walters,newspaper,372.74,58.9,Alaska
+2022-05-23,Curtis Wright,report,206.58,50.01,Rhode Island
+2022-11-10,Janet Richardson,memory,455.01,93.22,South Dakota
+2022-12-09,Jared Hopkins,doctor,99.57,99.66,Michigan
+2022-10-04,Michael Bell MD,heavy,304.62,21.42,West Virginia
+2022-06-07,Michael Schneider,wish,493.4,39.58,South Carolina
+2022-11-10,Jennifer Fox,manage,182.47,51.91,Texas
+2022-11-05,Brandon Villanueva,fast,336.53,74.16,Illinois
+2022-05-18,James Malone,perhaps,349.57,7.36,Maine
+2022-06-03,Chloe Garcia DVM,argue,146.49,61.41,Tennessee
+2022-10-08,Michael Goodwin,air,21.29,92.92,Mississippi
+2022-04-04,Shannon Scott,return,319.08,28.11,Washington
+2022-12-06,Robert Valentine,debate,187.5,11.69,California
+2022-07-26,Anthony Larson,however,491.51,27.02,North Dakota
+2022-03-18,Julia Young,go,198.05,57.31,Maine
+2022-06-23,Stacy Brooks,outside,135.03,8.52,Wyoming
+2022-06-25,Gabriel Stephenson,forward,39.14,6.87,Wyoming
+2022-05-03,Derek Reynolds,try,175.51,35.78,Nebraska
+2022-04-06,Janet Roberts,school,306.37,11.7,Tennessee
+2022-11-04,Brianna Moore,themselves,348.31,92.32,Minnesota
+2022-07-19,Austin Aguilar,sign,388.74,63.74,Maryland
+2022-03-19,Rachel Norris,trip,106.1,82.73,Arkansas
+2022-03-22,Edward Rodriguez,fall,178.61,53.69,Pennsylvania
+2022-08-10,Robert Gonzalez,teach,481.71,33.38,West Virginia
+2022-04-27,Stephanie Brown,put,327.14,10.43,Michigan
+2022-09-08,Gary Bailey DDS,alone,346.42,79.01,Idaho
+2022-11-19,Matthew Martinez,wind,185.37,70.35,Indiana
+2022-05-09,Christopher Drake,vote,183.52,29.19,Texas
+2022-09-02,Jasmin Rogers,especially,328.19,51.81,Colorado
+2022-04-27,Kayla Kennedy,action,203.33,65.15,Kansas
+2022-04-18,Heather Robbins,buy,372.13,10.94,Idaho
+2022-11-11,Thomas George,commercial,360.59,46.92,Tennessee
+2022-07-26,Carol Allison,five,416.26,72.65,Delaware
+2022-06-29,Gerald Navarro,when,268.72,95.09,New Mexico
+2022-05-30,Chelsea Morales,summer,125.75,69.7,Illinois
+2022-05-15,Peter Miller,deal,430.04,67.86,Colorado
+2022-03-13,Stephen Stafford,agreement,253.7,25.47,California
+2022-10-31,Preston Peterson,easy,446.5,82.99,Texas
+2022-01-13,Wendy Lopez,your,462.67,39.35,Hawaii
+2022-07-13,Scott Murray,clearly,372.3,62.93,Wyoming
+2022-09-01,Glenn Haynes,approach,254.28,3.26,Illinois
+2022-03-17,Andrea Rogers,push,161.2,65.87,Arizona
+2022-01-10,Rodney Boyd,item,68.08,35.12,Minnesota
+2022-09-07,Mrs. Brenda Chambers DDS,mission,218.27,5.35,New Mexico
+2022-03-19,Paula Marks,international,218.8,11.13,Tennessee
+2022-07-22,Michael Turner,cover,472.7,82.53,Colorado
+2022-03-06,Timothy Charles,expert,413.9,1.27,Hawaii
+2022-03-13,Kelly Brown,third,325.68,55.53,West Virginia
+2022-05-10,Jennifer Adams,gun,386.27,81.61,Oregon
+2022-09-23,Brandy Sanchez,address,378.36,35.89,North Carolina
+2022-04-03,Diane Brown,enough,132.73,64.78,Colorado
+2022-03-14,Tracy Lewis,safe,116.01,36.84,Delaware
+2022-06-11,Valerie Kelly,Mrs,228.16,4.94,Minnesota
+2022-10-12,James Harris,student,401.59,11.27,Indiana
+2022-07-07,Rachel Hutchinson,knowledge,98.81,92.2,Maryland
+2022-12-17,Cameron Ballard,picture,396.9,1.74,New Mexico
+2022-12-06,Julian Hayes,statement,48.36,65.53,New Mexico
+2022-10-04,Kelly Todd,process,432.2,22.73,Kansas
+2022-09-28,David Kelley,attention,489.28,94.07,Oklahoma
+2022-04-16,Brett Riggs,interview,170.05,35.22,Texas
+2022-12-24,Kevin Ramsey,ahead,452.38,45.34,Iowa
+2022-06-22,Karen Hendricks,major,468.55,80.07,South Dakota
+2022-07-26,Steven Johnson,upon,112.58,67.6,New York
+2022-05-28,Phillip Hill,hair,133.1,10.97,Oregon
+2022-06-24,Michael Molina,million,382.45,2.19,Rhode Island
+2022-04-23,Melanie Jordan,baby,357.15,7.54,North Dakota
+2022-06-06,Brianna Dyer,prove,234.72,85.97,Mississippi
+2022-12-06,Haley Frank,raise,35.72,58.01,North Dakota
+2022-04-19,Victoria Schneider,her,232.28,15.3,Oregon
+2022-05-16,Nancy Gallagher,tell,431.03,18.37,South Dakota
+2022-08-12,Brian Banks,practice,292.25,64.55,Iowa
+2022-11-01,Kimberly Powell,indicate,206.57,31.77,New Jersey
+2022-08-25,Erin Garrison,news,112.99,76.57,Arizona
+2022-09-28,Todd Delgado,discover,428.17,99.06,Arizona
